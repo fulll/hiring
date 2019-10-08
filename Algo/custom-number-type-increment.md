@@ -26,6 +26,7 @@ increment(Number number): Number
 #### Guidelines
 
 - Write it in your favorite language (one of: javascript, php)
+- :warning: Please don't use the number type of your language and increment it! (eg: `join('', $nunmber)++`)
 - Push your code to a Github repository or any sandbox environment like [codesandbox](https://codesandbox.io)
 - Get ready to justify some of your choices for the interview
 
