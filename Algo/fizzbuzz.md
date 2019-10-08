@@ -1,27 +1,17 @@
-## [Algo] Increment a custom Number type
+## [Algo] Fizzbuzz
 
 ### Instructions
 
-Imagine that you have a custom `Number` type in your app that manage numbers as an array of digits (instead of using the native number type that your language can bring by default).
-
-Some examples:
-
-| number | Number  |
-| ------ | ------- |
-| 123    | [1,2,3] |
-| 99     | [9,9]   |
-
-We want to be able to increment a `Number`.
+This is the very classical Fizz Buzz.
 
 ### Subject
 
-Your mission is to write an `increment` function that adds `1` to the input `Number` and returns the incremented `Number`.
+Display numbers between **1** and **N** by following the rules:
 
-Here's the (language agnostic) prototype of the function:
-
-```
-increment(Number number): Number
-```
+- if number can be divided by 3: display **Fizz** ;
+- if number can be divided by 5: display **Buzz** ;
+- if number can be divided by 3 **AND** 5 : display **FizzBuzz** ;
+- else: display the number.
 
 #### Guidelines
 
