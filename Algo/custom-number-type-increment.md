@@ -2,25 +2,24 @@
 
 ### Instructions
 
-Imagine that you have a custom `Number` type in your app that manage numbers as an array of digits (instead of using the native number type that your language can bring by default).
-
+Imagine that you have a custom `Array<digit>` type in your app that manage numbers as an array of digits ([0-9] range). 
 Some examples:
 
-| number | Number  |
-| ------ | ------- |
-| 123    | [1,2,3] |
-| 99     | [9,9]   |
+| number | Array<digit>  |
+| ------ | ------------- |
+| 123    | [1,2,3]       |
+| 99     | [9,9]         |
 
-We want to be able to increment a `Number`.
+We want to be able to increment a `Array<digit>`.
 
 ### Subject
 
-Your mission is to write an `increment` function that adds `1` to the input `Number` and returns the incremented `Number`.
+Your mission is to write an `increment` function that adds `1` to the input `Array<number>` and returns the incremented `Array<number>`.
 
-Here's the (language agnostic) prototype of the function:
+Here's the prototype of the function to implement:
 
-```
-increment(Number number): Number
+```typescript
+increment(number: Array<digit>): Array<digit> { /* ... */ }
 ```
 
 #### Guidelines
