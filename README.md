@@ -54,10 +54,11 @@ You wil be asked to quickly answer first to **one** of the following series of q
 3. [In Extenso Digital Developer interview 3](https://docs.google.com/forms/d/e/1FAIpQLSd4WL2W-F7pPjaWqTDdkt8fshfl-hYwUfxd5Mbt8QFZipQnNQ/viewform)
 4. [In Extenso Digital Developer interview 4](https://docs.google.com/forms/d/e/1FAIpQLSelkDQ8ypWs9ZtxhbtnHyuFaihO6DCeNie0UBQT6cAZrP5VWA/viewform)
 
-### 1. Technical test.s
+### 2. Technical test.s
 
 You will have to pass some technical test among following ones:
 
 - [Algo](./Algo)
 - [Backend](./Backend)
 - [Frontend](./Frontend)
+- [Python](./Python)
