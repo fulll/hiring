@@ -1,6 +1,6 @@
 ## [front/react] Checkboxes
 
-## Intructions
+## Instructions
 
 Build a simple **React** application to handle multiple selection in lists.
 
