@@ -1,6 +1,6 @@
 ## [Python/data] Bike Sharing
 
-In this project, you will make use of Python to explore data related to bike share systems for the three major cities in the United States—Chicago, New York City, and Washington.
+In this project, you will make use of Python to explore data related to bike share systems for the three major cities in the United States - Chicago, New York City, and Washington.
 You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ## Instructions
@@ -49,12 +49,12 @@ washington.csv
 
 Randomly selected data from https://www.capitalbikeshare.com/system-data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six columns:
 
-Start Time (e.g., 23/06/2017 15:09:32)
-End Time (e.g., 23/06/2017 15:14:53)
-Trip Duration (in seconds - e.g., 321)
-Start Station (e.g., Wood St & Hubbard St)
-End Station (e.g., Damen Ave & Chicago Ave)
-User Type (Subscriber or Customer)
+- Start Time (e.g., 23/06/2017 15:09:32)
+- End Time (e.g., 23/06/2017 15:14:53)
+- Trip Duration (in seconds - e.g., 321)
+- Start Station (e.g., Wood St & Hubbard St)
+- End Station (e.g., Damen Ave & Chicago Ave)
+- User Type (Subscriber or Customer)
 
 ### Evaluation
 
