@@ -40,7 +40,7 @@ Example of **Guilds**:
 The goal is to detect which chapter.s fits to you, how you can help us whilst improving your skills in our organization.
 
 :bulb: As a follow up, **each quarter** we make evaluations to help you quantify your progress.
-
+<!--
 ## How do you proceed with interviews?
 
 Before we meet in person - to have a rich one to one interview - we ask for some requirements.
@@ -55,7 +55,7 @@ You wil be asked to quickly answer first to **one** of the following series of q
 4. [In Extenso Digital Developer interview 4](https://docs.google.com/forms/d/e/1FAIpQLSelkDQ8ypWs9ZtxhbtnHyuFaihO6DCeNie0UBQT6cAZrP5VWA/viewform)
 
 ### 2. Technical test.s
-
+-->
 You will have to pass some technical test among following ones:
 
 - [Algo](./Algo)
