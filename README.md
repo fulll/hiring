@@ -62,3 +62,4 @@ You will have to pass some technical test among following ones:
 - [Backend](./Backend)
 - [Frontend](./Frontend)
 - [Python](./Python)
+- [Data Science](./DataScience)
