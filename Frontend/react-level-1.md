@@ -1,6 +1,6 @@
 ## [front/react] Checkboxes
 
-## Intructions
+## Instructions
 
 Build a simple **React** application to handle multiple selection in lists.
 
@@ -9,7 +9,7 @@ Build a simple **React** application to handle multiple selection in lists.
 1. Display 5 checkboxes
 2. The first one will select/unselect every checkboxes
 3. The others will select themselves
-4. Checking all items will select the select all checkbox automatically
+4. Checking all items will select the "select all" checkbox automatically
 
 **Some possible cases:**
 
