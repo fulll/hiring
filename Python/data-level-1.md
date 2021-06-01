@@ -6,7 +6,7 @@ You will write code to import the data and answer interesting questions about it
 ## Instructions
 
 - Complete the "to do" lines in the template python file "bike_investigation.py"
-- Push your code to a Github repository
+- Push your code to a private Github repository
 - Document what you've done in the code and with a README
 
 ### The subject
@@ -17,7 +17,7 @@ In this project, you'll write code to provide the following information:
 #1 Popular times of travel (i.e., occurs most often in the start time)
 
 - most common month
-- most common day of week
+- most common day of the week
 - most common hour of day
 
 #2 Popular stations and trip
