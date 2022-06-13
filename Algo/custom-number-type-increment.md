@@ -3,14 +3,14 @@
 ### Instructions
 
 Imagine that you have a custom `Array<digit>` type in your app that manage numbers as an array of digits ([0-9] range). 
+We want to be able to increment a `Array<digit>`. 
+
 Some examples:
 
-| number | Array<digit>  |
-| ------ | ------------- |
-| 123    | [1,2,3]       |
-| 99     | [9,9]         |
-
-We want to be able to increment a `Array<digit>`.
+| number | Array<digit>  | Expected result |
+| ------ | ------------- | --------------- |
+| 123    | [1,2,3]       | [1,2,4]         |
+| 99     | [9,9]         | [1,0,0]         |
 
 ### Subject
 
