@@ -2,8 +2,8 @@
 
 ## Instructions
 
-Create an input text in which as the user types in, launch a search against
-Github users and return a result list.
+Create a search input text where users can type in and get results straight away, without ENTER keypress or submit button required.
+Results will list Github users as a list. It is up to you to define which data about Github users is relevant to display.
 
 ### The subject
 
@@ -11,7 +11,7 @@ Github users and return a result list.
 2. Try to not add any dependency library on a freshly created
    [create react app](https://github.com/facebook/create-react-app).
 3. Don't forget to check against modern ways to make HTTP requests on frontend side.
-4. Bonus: manage edge cases (no results, github api rate limit)
+4. Bonus: manage edge cases (no results, Github api rate limit, user type in quickly and going back and forth on his search)
 
 ### Guidelines
 
@@ -24,3 +24,4 @@ Github users and return a result list.
 - Quality of the code
 - Scalability of the algorithm
 - Usage of good practices and modern javascript
+- Bonus: explicite UI and appealing look and feel
