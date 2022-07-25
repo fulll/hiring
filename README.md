@@ -2,7 +2,7 @@
 
 Information about development job opportunities and career at [Fulll](https://www.fulll.fr). If you're looking for specification of interview tasks for our open positions, check [Open positions](https://www.welcometothejungle.com/fr/companies/fulll). If you would like to know more about Fulll, what we use, how we work etc, we have a [Blog](https://medium.com/inexdigital-fr) and [Twitter](https://twitter.com/InexDigital_FR) with latest information.
 
-You can always reach us at rh@inextenso.digital.
+You can always reach us at rh@fulll.fr.
 
 # How are we structured?
 
