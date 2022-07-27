@@ -3,7 +3,9 @@
 ## Instructions
 
 Create a search input text where users can type in and get results straight away, without ENTER keypress or submit button required.
-Results will list Github users as a list. It is up to you to define which data about Github users is relevant to display.
+Results will list Github users like the mock below, and must be responsive.
+
+<img width="600" alt="Capture d’écran 2022-07-27 à 12 13 23" src="https://user-images.githubusercontent.com/42266363/181222813-19dc0457-8284-47e7-9f8c-0917bb02afe2.png">
 
 ### The subject
 
@@ -24,4 +26,6 @@ Results will list Github users as a list. It is up to you to define which data a
 - Quality of the code
 - Scalability of the algorithm
 - Usage of good practices and modern javascript
-- Bonus: explicite UI and appealing look and feel
+- Respect of the mock
+- Responsive
+- Tests 
