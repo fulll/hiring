@@ -21,19 +21,20 @@ Build a simple mobile iOS/Android application
 
 ---
 
- 3. If logged user is an IED collaborator (email contains @inextenso.fr), app displays "Hello Dear Collaborator!" below the logotype. User can "logout" and will be redirected to the authentication form.
+ 3. If logged user is an IED collaborator (email contains @fulll.fr), app displays "Hello Dear Collaborator!" below the logotype. User can "logout" and will be redirected to the authentication form.
 
 ---
 
-## Guidelines
+### Guidelines
 
- - Use React Native CLI to generate a new project (can use TypeScript template if you want)
- - Use hooks
- - Push your code to a Github repository
- - Document what you've done
+- Use React Native CLI to generate a new project (can use TypeScript template if you want)
+- Use hooks
+- Push your code to a Github repository
+- Document what you've done
 
 ## Evaluation
 
 - Quality of the code
 - Scalability of components and business logic
 - Usage of good practices and modern javascript
+- Tests
