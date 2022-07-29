@@ -1,8 +1,10 @@
-# Fulll Developers
+# Join fulll
 
-Information about development job opportunities and career at [Fulll](https://www.fulll.fr). If you're looking for specification of interview tasks for our open positions, check [Open positions](https://www.welcometothejungle.com/fr/companies/fulll). If you would like to know more about Fulll, what we use, how we work etc, we have a [Blog](https://medium.com/inexdigital-fr) and [Twitter](https://twitter.com/InexDigital_FR) with latest information.
+Space dedicated to the hiring process at [Fulll](https://www.fulll.fr). 
+If you're looking for a specific job offer, check our current list of [opened positions](https://www.welcometothejungle.com/fr/companies/fulll).
 
-You can always reach us at rh@fulll.fr.
+Could not find the perfect match? Feel free to reach us and provide your resume, motivation and the role you would expect directly by mail at rh@fulll.fr
+
 
 # How are we structured?
 
@@ -13,19 +15,16 @@ You can always reach us at rh@fulll.fr.
 Example of **Squads** (collection of apps with same affinity):
 
 - Data
-- Workflow
+- Workflow 
 - Accounting
 - ...
 
 Example of **Chapters**:
 
-- [Senior, Intermediate] Backend developer
-- [Senior, Intermediate] Backend engineer
-- [Senior, Intermediate] Frontend developer
-- [Senior, Intermediate] Frontend engineer
-- UX designer
-- Software Architect
-- [Senior, Intermediate] Product Manager
+- chapter back-end
+- chapter front-end
+- chapter QA
+- chapter design
 - ...
 
 Example of **Guilds**:
@@ -41,25 +40,26 @@ The goal is to detect which chapter.s fits to you, how you can help us whilst im
 
 :bulb: As a follow up, **each quarter** we make evaluations to help you quantify your progress.
 
-## How do you proceed with interviews?
+## How do you proceed with hiring process?
 
-Before we meet in person - to have a rich one to one interview - we ask for some requirements.
+1. First of all, you apply to a specific job or a spontaneous application by providing you resume, motivation and any link that could help us to know you more (github, portfolio, linkedin...)
+2. First interview with our HR to understand your wishes
+3. Technical tests / uses case to work on your side
+4. Second interview with a pair and a manager
 
-### 1. Questions
 
-You wil be asked to quickly answer first to **one** of the following series of questions:
 
-1. [Fulll Developer interview 1](https://docs.google.com/forms/d/e/1FAIpQLSd5Fxl3jsBty2An22WYwBzLCKpI8skIMkc2wUR6WmOMByaoxA/viewform)
-2. [Fulll Developer interview 2](https://docs.google.com/forms/d/e/1FAIpQLSfDgzGODjiblmBYZi3ZO6jb-lEK6JXgNJ2HNacbzoPkAeL-RQ/viewform)
-3. [Fulll Developer interview 3](https://docs.google.com/forms/d/e/1FAIpQLSd4WL2W-F7pPjaWqTDdkt8fshfl-hYwUfxd5Mbt8QFZipQnNQ/viewform)
-4. [Fulll Developer interview 4](https://docs.google.com/forms/d/e/1FAIpQLSelkDQ8ypWs9ZtxhbtnHyuFaihO6DCeNie0UBQT6cAZrP5VWA/viewform)
-
-### 2. Technical test.s
+### 3. Technical tests
 
 You will have to pass some technical test among following ones:
 
+#### Developers
 - [Algo](./Algo)
 - [Backend](./Backend)
 - [Frontend](./Frontend)
+- [Mobile/React Native](./Mobile/React Native - Level 1)
 - [Python](./Python)
 - [Data Science](./DataScience)
+
+#### Product manager
+- [Product manager](./ProductManager)
