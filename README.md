@@ -57,7 +57,7 @@ You will have to pass some technical test among following ones:
 - [Algo](./Algo)
 - [Backend](./Backend)
 - [Frontend](./Frontend)
-- [Mobile/React Native](./Mobile/React Native - Level 1)
+- [Mobile](./Mobile)
 - [Python](./Python)
 - [Data Science](./DataScience)
 
