@@ -1,0 +1,23 @@
+{
+    "type": "project",
+    "license": "proprietary",
+    "require": {
+        "behat/behat": "*"
+    },
+    "require-dev": {
+    },
+    "config": {
+        "preferred-install": {
+            "*": "dist"
+        },
+        "allow-plugins": {
+            "ocramius/package-versions": true,
+            "symfony/flex": true
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Fulll\\": "src/"
+        }
+    }
+}

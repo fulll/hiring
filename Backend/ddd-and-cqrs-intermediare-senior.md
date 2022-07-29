@@ -1,10 +1,10 @@
-## [back/ddd/cqs] Vehicle fleet parking management
+## [back/ddd/cqrs] Vehicle fleet parking management
 
 ### Instructions
 
 I have a vehicle fleet and I want to manage where every vehicle is parked.
 
-### Subject
+### Step 1
 
 register_vehicle.feature
 
@@ -80,7 +80,7 @@ Feature: Park a vehicle
    (therefore, for **javascript**
    [ramda](https://www.npmjs.com/package/ramda) and/or
    [lodash](https://www.npmjs.com/package/lodash) can be used)
-3. apply [CQS & DDD principles](https://martinfowler.com/tags/domain%20driven%20design.html).
+3. apply [CQRS & DDD principles](https://martinfowler.com/tags/domain%20driven%20design.html).
 4. Write corresponding bdd tests ([behat](https://behat.org/en/latest/),
    [cucumber.js](https://cucumber.io/docs/installation/javascript/), ...)
 5. Your code should resides into the following directory structure:
@@ -94,58 +94,51 @@ Feature: Park a vehicle
           # infrastructure related implementation.s.
 ```
 
+Note : We use DDD and suggest its use but all modern architectures (Clean architecture, Hexagonal architecture, Port and Adapters, ...) are acceptable
+
+
 #### Tips
 
 - Try to first write bdd/gherkin tests, then implement the code.
-- Ask you: how many entities do I have? Which one aggregates every action?
+- Ask you: how many entities do I have?
 - Ask you: how many Commands? Queries?
 - At the moment, you don't have to persist data elsewhere than **in memory**.
 - Here's an indication of ≈ expected number of line of codes, for implementations
   in **php** and **javascript**:
 
-**php**
+## Step 2
+
+I have a vehicle fleet and I want to manage where every vehicle is parked.
+This is the second part, we now want to expose our work to the world!
+
+Please wrap the part 1 into a complete application. We want:
+
+1. A command line cli with the following commands:
 
 ```shell
-➜ cloc --exclude-dir=vendor .
-      13 text files.
-      13 unique files.
-       2 files ignored.
-
-github.com/AlDanial/cloc v 1.82  T=0.02 s (573.7 files/s, 23186.9 lines/s)
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-PHP                              9             64             48            304
-Cucumber                         2              8              0             41
-JSON                             1              0              0             20
--------------------------------------------------------------------------------
-SUM:                            12             72             48            365
--------------------------------------------------------------------------------
+./fleet create <userId> # returns fleetId on the standard output
+./fleet register-vehicle <fleetId> <vehiclePlateNumber>
+./fleet localize-vehicle <fleetId> <vehiclePlateNumber> lat lng [alt]
 ```
 
-**javasript**
+2. To persist fleet and vehicles into a real repository/database.
 
-```shell
-➜ cloc --exclude-dir=node_modules .
-      12 text files.
-      12 unique files.
-       3 files ignored.
+#### Guidelines
 
-github.com/AlDanial/cloc v 1.82  T=0.02 s (534.2 files/s, 14852.0 lines/s)
--------------------------------------------------------------------------------
-Language                     files          blank        comment           code
--------------------------------------------------------------------------------
-JavaScript                       7             37              0            175
-Cucumber                         2              8              0             41
-JSON                             1              0              0             17
--------------------------------------------------------------------------------
-SUM:                            10             45              0            233
--------------------------------------------------------------------------------
-```
+1. Feel free to use helpful framework/libs to manage command line cli
+2. Take a look at your **B**ehavior **D**riven **D**evelopment tool (BDD),
+   especially profiles and/or suites and/or tags to only switch pertinent tests
+   on real infrastructure (with persistence) while keeping not critical
+   as they was before.
+
+## Step 3
+
+- For code quality, you can use some tools : which one and why (in a few words) ?
+- you can consider to setup a ci/cd process : describe the necessary actions in a few words
+
 
 #### Evaluation
 
-- Questions (max: 5) before starting to code.
 - Quality of the code.
 - Please be careful to not over engineer your solution!
 - Usage of good practices and modern programming language features.
