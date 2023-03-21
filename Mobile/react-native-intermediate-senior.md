@@ -41,7 +41,7 @@ Add an edit mode
 
 ### Guidelines
 
-- Use official React Native CLI to generate a new project (can use TypeScript template if you want)
+- Use official React Native CLI to generate a new project
 - Push your code to a Github repository
 - Document what you've done
 
