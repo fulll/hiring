@@ -1,6 +1,6 @@
 ## Mobile Quizz
 
-1. What would return the following code? A
+1. What would return the following code?
 
 ```jsx
 class Content extends React.Component {
@@ -51,7 +51,7 @@ class Container extends React.Component {
 
 - C Returns an error
 
-2. Which reducer code do not follow best practices? A
+2. Which reducer code do not follow best practices?
 
 - A
 	```ts
@@ -114,25 +114,25 @@ class Container extends React.Component {
 	  return { ...state, data, authType, loading: false }
 	```
 
-4. A higher-order component is a function that: A+B
+4. A higher-order component is a function that:
 
 	- A) takes a component and returns a new component
 	- B) transforms a component into another component
 	- C) transforms props into UI
 
-5. What is "windowing"? B
+5. What is "windowing"?
 
 	- A) making a UI for Windows users only
 	- B) a technique to render a small subset of a larger dataset
 	- C) to be often trying to escape of your PM task assignations
 
-6. Which methods are not usable with React hooks? A
+6. Which methods are not usable with React hooks?
 
 	- A) getDerivedStateFromError
 	- B) componentWillUnmount
 	- C) componentDidUpdate
 
-7. Which status code is not an error? A+D
+7. Which status code is not an error?
 
 	- A) 204
 	- B) 401
@@ -148,7 +148,7 @@ class Container extends React.Component {
 
 9. What is the main difference between queries and mutations in GraphQL? Queries are used to get data and fields are executed in parallel; mutations are used to create, edit or delete data and executed serially for the top-level fields.
 
-10. What does not permit to interact with servers within React Native project? A+C
+10. What does not permit to interact with servers within React Native project?
 
 - A) XMLHttpRequest
 - B) Fetch
