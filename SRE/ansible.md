@@ -24,8 +24,8 @@ You need to copy the file `nginx.conf` (see exercices files) on  `/etc/nginx/ngi
 ## Question 3: Deployment of a Docker Application
 Write an Ansible role to deploy a Docker application on an EC2 instance. Ensure that the role:
 
-- Downloads the Docker image from Docker Hub.
-- Exposes the appropriate port to access the application.
+- Downloads the Docker image from Docker Hub (`nginx:latest`).
+- Exposes the appropriate port to access the application (`"8080:80"`).
 - Starts the Docker container with the necessary options.
 
 

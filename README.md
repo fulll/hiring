@@ -60,6 +60,7 @@ You will have to pass some technical test among following ones:
 - [Mobile](./Mobile)
 - [Python](./Python)
 - [Data Science](./DataScience)
+- [SRE - Cloud Architect](./SRE)
 
 #### Product manager
 - [Product manager](./ProductManager)
