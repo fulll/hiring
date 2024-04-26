@@ -10,16 +10,11 @@ You can use online documentation and available resources to assist in problem-so
 ### Question 1: Workflow Trigger
 Write a GitHub Actions workflow that automatically triggers on each push to the main branch of the repository.
 
-### Question 2: Dependency Installation
-Add a step to your GitHub Actions workflow to install the necessary dependencies for running your application or scripts.
+Add a step to your GitHub Actions workflow to install the necessary dependencies for running the script `hello.py` (see exercises directory).
 
-### Question 3: Test Execution
-Add a step to your GitHub Actions workflow to run the unit tests for your application or scripts. Ensure that the workflow fails if the tests fail.
 
-### Question 4: Deployment to AWS
-Write a step in your GitHub Actions workflow to deploy your application to AWS after the tests pass.
-
-### Question 5: Secrets Management
-Modify your GitHub Actions workflow to use GitHub secrets to store sensitive information, such as AWS access keys or API tokens.
+### Question 2: Secrets Management
+Modify your GitHub Actions workflow to use GitHub secrets to store sensitive information.
+Set a env var name `my_secret` and print this value (not a good practice !)
 
 These questions cover various aspects of GitHub Actions workflows, including triggering, dependency installation, test execution, deployment to AWS, and secrets management. Make sure to provide functional and correct GitHub Actions workflows for each question.
