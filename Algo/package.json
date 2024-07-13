@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "ts-node index.ts",
+    "performance": "ts-node performance.ts",
+    "test": "jest --testTimeout=10000"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
