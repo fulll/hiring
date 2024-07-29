@@ -3,7 +3,7 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "test-data-ingeneer-junior"
+name = "junior-data-transformation-and-analysis-evaluation"
 version = "1.0.0"
 authors = [
     {name = "fulll", email = "developer@fulll.fr"},
