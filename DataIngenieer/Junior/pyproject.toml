@@ -8,7 +8,7 @@ version = "1.0.0"
 authors = [
     {name = "fulll", email = "developer@fulll.fr"},
 ]
-description = "Test data ingeneer junior"
+description = "Data Engineer Junior: data transformation and analysis evaluation"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
