@@ -1,6 +1,6 @@
 ## Intermediate Data Engineer test
 ### Context
-A supermarket stores their transaction data in a relational database for further analysis. The transaction data is uploaded to the system as an CSV file a few times per day. Each transaction has an unique `id`. As a data engineer, your task is to implement and maintain a pipeline to store the transaction data  in the database.
+A supermarket stores its transaction data in a relational database for further analysis. The transaction data is uploaded to the system as a CSV file multiple times per day. Each transaction has a unique `id`. As a data engineer, your task is to implement and maintain a pipeline to store the transaction data in the database.
 
 ### Elements
 For the test, the following elements are provided:
