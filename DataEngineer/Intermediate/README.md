@@ -15,7 +15,7 @@ Your task is to implement the Python code to store the data from the CSV in the 
 As implementation is only half of the work for a Data Engineer, you're also asked to implement test cases to verify things work as expected. An example of test is provided in the file `test.py`. You need to complete it. Do not hesitate to add more relevant test cases.
 
 #### Explore the data using SQL
-After loading the data in the system, the stakeholder want to extract some information. As a data engineer, you're in charge of the task. Please write the SQL query to answer the following questions:
+After loading the data into the system, the stakeholder wants to extract some information. As a data engineer, you're in charge of the task. Please write the SQL query to answer the following questions:
 - What is the number of transactions on 14/01/2022?
 - What is the total amount, including tax, of all `SELL` transactions?
 - Consider the product `Amazon Echo Dot`, what is the balance (`SELL` - `BUY`) by date?
