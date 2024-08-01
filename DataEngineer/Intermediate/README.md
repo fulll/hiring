@@ -21,7 +21,7 @@ After loading the data in the system, the stakeholder want to extract some infor
 - Consider the product `Amazon Echo Dot`, what is the balance (`SELL` - `BUY`) by date?
 
 #### Deployment (optional)
-Of course, the workflow cannot run on the machine of developers, we need to deploy it and automate the process. Can you list the necessary elements of such a system ?
+Of course, the workflow cannot run on the developer's machine, we need to deploy it and automate the process. Can you list the necessary elements of such a system ?
 
 ### Evaluation
 We look into the following elements:
