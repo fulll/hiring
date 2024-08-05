@@ -18,7 +18,9 @@ As implementation is only half of the work for a Data Engineer, you're also aske
 After loading the data into the system, the stakeholder wants to extract some information. As a data engineer, you're in charge of the task. Please write the SQL query to answer the following questions:
 - What is the number of transactions on 14/01/2022?
 - What is the total amount, including tax, of all `SELL` transactions?
-- Consider the product `Amazon Echo Dot`, what is the balance (`SELL` - `BUY`) by date?
+- Consider the product `Amazon Echo Dot`:
+  - What is the balance (`SELL` - `BUY`) by date?
+  - (Optional) What is the cumulated balance (`SELL` - `BUY`) by date?
 
 #### Deployment (optional)
 Of course, the workflow cannot run on the developer's machine, we need to deploy it and automate the process. Can you list the necessary elements of such a system ?
