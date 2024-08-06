@@ -18,7 +18,7 @@ class TestBikeShareData(unittest.TestCase):
         # TO DO : add more tests for the other keys in the result dictionary
 
     def test_time_stats_missing_data(self):
-        # TO DO : base on the above test, create tests for all function in bike_investigation.py and for couple of corner cases.
+    # TO DO : base on the above test, create tests for station_stats, trip_duration_stats and user_stats function. Make sure you cover common corner cases.  
 
     
 if __name__ == '__main__':
