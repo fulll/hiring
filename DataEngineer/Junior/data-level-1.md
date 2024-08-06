@@ -6,6 +6,7 @@ You will write code to import the data and answer interesting questions about it
 ## Instructions
 
 - Complete the "to do" lines in the template python file "bike_investigation.py"
+- Complete the tests in the file "test_bike_investigation.py"
 - Push your code to a private Github repository
 - Document what you've done in the code and with a README
 
@@ -37,10 +38,14 @@ In this project, you'll write code to provide the following information:
 - counts of each gender (only available for NYC and Chicago)
 - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+#5 Tests cases
+Please complete the unitest in the file test_bike_investigation.py
+Make sure that you cover most of the expected cases.
+
 ### Guidelines
 
 To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a bike_investigation.py file, and you will do your scripting in there also.
-You will need the three city dataset files that are in the ZIP file éBike_raw_data" :
+You will need the three city dataset files that are in the ZIP file "Bike_raw_data" :
 chicago.csv
 new_york_city.csv
 washington.csv
