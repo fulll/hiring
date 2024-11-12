@@ -1,4 +1,4 @@
-## Security
+# Security
 
 We take the security of our software products and components seriously, which includes all source code repositories managed through our [In Extenso Digital's GitHub organization](https://github.com/inextensodigital).
 
