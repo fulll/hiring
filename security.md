@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any In Extenso Digital
 
 We prefer all communications to be in English, but if you are not comfortable, French is acceptable too.
 
-## Reporting security vulnerability Issues
+## Reporting security vulnerabilities
 
 :warning: **Please do not report security vulnerabilities through public GitHub issues.**
 
