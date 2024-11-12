@@ -2,9 +2,9 @@
 
 We take the security of our software products and components seriously, which includes all source code repositories managed through our [In Extenso Digital's GitHub organization](https://github.com/inextensodigital).
 
->If you believe you have found a security vulnerability in any In Extenso Digital's repository that meets Wikipedia's definition of a security vulnerability ([English version](https://en.wikipedia.org/wiki/Vulnerability_(computing)), [French version](https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9_(informatique))), please report it to us as described below.
+>If you believe you have found a security vulnerability in any In Extenso Digital's repository that is aligned with Wikipedia's definition of a security vulnerability ([English version](https://en.wikipedia.org/wiki/Vulnerability_(computing)), [French version](https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9_(informatique))), please report it to us as described below.
 
-## Preferred Languages
+### Preferred Languages
 
 We prefer all communications to be in English, but if you are not comfortable, French is acceptable too.
 
