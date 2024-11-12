@@ -4,6 +4,10 @@ We take the security of our software products and components seriously, which in
 
 If you believe you have found a security vulnerability in any In Extenso Digital's repository that meets Wikipedia's definition of a security vulnerability ([English version](https://en.wikipedia.org/wiki/Vulnerability_(computing)), [French version](https://fr.wikipedia.org/wiki/Vuln%C3%A9rabilit%C3%A9_(informatique))), please report it to us as described below.
 
+## Preferred Languages
+
+We prefer all communications to be in English, but if you are not comfortable, French is acceptable too.
+
 ## Reporting security vulnerability Issues
 
 :warning: **Please do not report security vulnerabilities through public GitHub issues.**
@@ -24,10 +28,6 @@ For private repositories, you can also send an email or directly use the dedicat
   * Description and Impact of the issue, including how an attacker might exploit the issue
 
 This information will help us triage your report more quickly.
-
-## Preferred Languages
-
-We prefer all communications to be in English, but if you are not comfortable, French is acceptable too.
 
 ## Policy
 
