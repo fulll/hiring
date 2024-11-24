@@ -1,19 +1,22 @@
-function fizzBuzz(number) {
-  const fizz = number % 3 === 0;
-  const buzz = number % 5 === 0;
+const { benchmark } = require('./benchmark');
 
-  if (fizz && buzz) {
-    return 'FizzBuzz';
-  } else if (fizz) {
-    return 'Fizz';
-  } else if (buzz) {
-    return 'Buzz';
+function fizzBuzz(numberOfIterations) {
+  for (let i = 0; i < numberOfIterations; i++) {
+    const fizz = i % 3 === 0;
+    const buzz = i % 5 === 0;
+
+    if (fizz && buzz) {
+      console.log('FizzBuzz');
+    } else if (fizz) {
+      console.log('Fizz');
+    } else if (buzz) {
+      console.log('Buzz');
+    } else {
+      console.log(i);
+    }
   }
-  return number;
 }
 
 if (require.main === module) {
-  for (let i = 0; i < 100; i++) {
-    console.log(fizzBuzz(i));
-  }
+  benchmark(100, fizzBuzz);
 }
