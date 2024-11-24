@@ -1,9 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Nulla facilisi. 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. 
-Sed eu metus nec metus gravida tincidunt nec sit amet ex. Mauris ut convallis dolor. 
-Proin a sapien eget metus maximus auctor. Nulla facilisi. 
-Donec commodo massa at luctus sagittis. 
-Nullam eget urna hendrerit, vehicula turpis eget, sagittis mi. 
-Etiam in libero vel mi vulputate viverra. 
-In hac habitasse platea dictumst. Curabitur ac mauris at sem maximus efficitur.
