@@ -31,6 +31,8 @@ Weapons
 Use one or several weapons to define your high level backlog prioritized, and explain why you choose this one / these ones. 
 Why is even more important that the weapon itself. 
 
+You may use any AI tool to help you speed up writing or get insights. If so, please specify which tool you used, for what purpose(s) and benefit(s) you earned.
+
 ## Time required
 
 3h to 4h
