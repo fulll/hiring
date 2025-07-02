@@ -12,6 +12,8 @@ Goal is to define the user story to filter within the search of flights into Goo
 - writing skills, in english
 - markdown file, or pdf, doc, txt (template provided has markdown syntax)
 
+You may use any AI tool to help you speed up writing or get insights. If so, please specify which tool you used, for what purpose(s) and benefit(s) you earned.
+
 ## Time required
 
 2h to 3h
