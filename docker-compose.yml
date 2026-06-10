@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    container_name: fulll_app
+    working_dir: /app
+    volumes:
+      - .:/app
+    # Keep the container alive so quality tools can be run on demand:
+    #   docker compose exec -w /app/Algo app composer quality
+    #   docker compose exec -w /app/Backend/PHP app composer quality
+    tty: true
+    command: tail -f /dev/null
