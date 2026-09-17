@@ -1,43 +1,44 @@
-# Level 2 - Define a backlog
+# Niveau 2 - Définir un backlog
 
-We want to evaluate your capability to define a backlog / roadmap pretty high level to respond to a specific audience and specific use case for a new product we could launch about cashflow.
+On veut évaluer ta capacité à définir un backlog / une roadmap assez haut niveau, afin de répondre à une audience et à des cas d’usage spécifiques pour un nouveau produit que nous pourrions lancer autour de la gestion de flux de trésorerie.
 
-Your target are entrepreneurs / founders of a small company.
-We know that cashflow is key to manage their companies, making decision about investment, business strategy, recruitment, reducing costs...
+Ta cible est composée d’entrepreneurs / fondateurs de petites entreprises.
 
-"As an entrepreneur, I want to manage my cashflow in order to..."
+Nous savons que les flux de trésorerie sont essentiels pour gérer une entreprise et prendre des décisions concernant les investissements, la stratégie commerciale, les recrutements, la réduction des coûts, etc.
 
-From this starting point, we want that you define a product definition by highlighing
-- target/audience
-- user values
-- product promises
-- market opportunities
-- monetisation (bonus)
+> « En tant qu’entrepreneur, je veux gérer mes flux de trésorerie afin de… »
 
-After saying that, we can imagine many things to do here, and this can require a lot of work.
+À partir de ce point de départ, nous voulons que tu définisses le produit en mettant en évidence :
 
-Your goal is not to do all of these, but choose your weapons to deliver a high level roadmap prioritized
-- by values
-- market opportunities
-- according to your key audience
+- la cible / l’audience ;
+- les valeurs apportées aux utilisateurs ;
+- les promesses produit ;
+- les opportunités de marché ;
+- la monétisation *(bonus)*.
 
-Weapons
-- interview(s) script
-- user workflow
-- user story map / feature story map
-- lean canvas
-- anything else
+On peut imaginer beaucoup de choses à faire, et cela peut demander énormément de travail.
 
-Use one or several weapons to define your high level backlog prioritized, and explain why you choose this one / these ones. 
-Why is even more important that the weapon itself. 
+Ton objectif n’est pas de tout faire, mais de choisir tes outils pour livrer une roadmap priorisée à haut niveau :
 
-You may use any AI tool to help you speed up writing or get insights. If so, please specify which tool you used, for what purpose(s) and benefit(s) you earned.
+- selon la valeur apportée ;
+- selon les opportunités de marché ;
+- selon ton audience principale.
 
-## Time required
+## Outils possibles
 
-3h to 4h
+- script(s) d’entretien ;
+- workflow utilisateur ;
+- user story map / feature story map ;
+- lean canvas ;
+- tout autre outil pertinent.
 
-## Expectations
-- rewrite the speech of the exercise
-- provide your delivery with any support: external public link (Miro, Notion, Google Drive...) or simply a PPT/PDF with at least a high level roadmap prioritized and the path you've took to reach this result
-- explain your method and why
+Utilise un ou plusieurs outils pour définir ton backlog à haut niveau et le prioriser. Explique pourquoi tu as choisi cet ou ces outils.
+
+Le **pourquoi** est encore plus important que l’outil lui-même.
+
+On veut évoluer la démarche de réflexion, plus que le contenu lui même. Le fil rouge entre un contexte clairement posé, des hypothèses effectuées en expliquant la raison ou la source de ces hypothèses, jusqu'à la proposition d'une roadmap priorisée.
+
+Tu peux utiliser n’importe quel outil d’IA pour t’aider à accélérer la rédaction ou obtenir des informations complémentaires. Si tu le fais, précise quel outil tu as utilisé, dans quel contexte et quels bénéfices tu en as tiré.
+
+## Temps requis
+2h à 4h

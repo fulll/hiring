@@ -1,9 +1,7 @@
-## Welcome dear product manager!
+## Bienvenue cher/chère Product Manager !
 
-First of all, thanks for reading this.
-As a candidate applying for a PM position at fulll, we want to evaluate your skills, your capabilities to define a story / a backlog.
-We don't want to take too much time, as we know you can do this kind of exercise several times during your hiring journey.
+Merci à toi de prendre le temps de lire ceci, un texte garanti sans IA!
 
-Our requirement is to evaluate your method, your way to shape and think, and not necessarly the content it self.
+En tant que candidat(e) à un poste de PM chez fulll, nous souhaitons évaluer tes compétences ainsi que ta capacité à définir une user story ou un backlog. Nous ne voulons pas te prendre trop de temps, car nous savons pertinemment que ton temps est précieux et que tu peux être amené(e) à faire plusieurs fois ce genre d'exercices lors de process de recrutement.
 
-Put effort on what you consider important, relevant and what will allow us to get your main skills.
+Notre objectif est d'évaluer la méthodologie, la façon de concevoir et de structurer ta pensée, plutôt que le contenu lui-même. Investis tes efforts sur ce qui te semble important, pertinent, et qui nous permettra de cerner au mieux tes compétences clés.
