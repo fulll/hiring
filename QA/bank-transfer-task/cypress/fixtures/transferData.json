@@ -1,0 +1,23 @@
+{
+    "validTransfer": {
+        "beneficiary": "François Robert",
+        "iban": "FR7612345678901234567890123",
+        "label": "Facture Janvier",
+        "amount": "1250.50"
+    },
+    "amountLimits": {
+        "minValid": "0.01",
+        "maxValid": "100000",
+        "belowMin": "0.00",
+        "aboveMax": "100000.01"
+    },
+    "ibanLengths": {
+        "minValid": 14,
+        "maxValid": 34,
+        "tooShort": 13,
+        "tooLong": 35
+    },
+    "labels": {
+        "invalid": "Rent #2024!"
+    }
+}
